@@ -2,7 +2,7 @@
   "settings": {
     "currentPage": "index.html",
     "versionFirst": "2.11.1",
-    "uniqCompNum": 6,
+    "uniqCompNum": 14,
     "versionPublish": "3.12.1",
     "name": "ToonDeSchutter",
     "theme": {
@@ -19,8 +19,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Mobirise Mobile Website Builder",
-        "meta_descr": "Free Responsive Website Maker. Create awesome mobile-first websites. Easy and fast - No coding!",
+        "title": "Toon De Schutter Schrijnwerker",
+        "meta_descr": "Toon De Schutter, voor al uw dakwerken, kasten, keukens, houtskeletbopuw en schrijnwerk",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
